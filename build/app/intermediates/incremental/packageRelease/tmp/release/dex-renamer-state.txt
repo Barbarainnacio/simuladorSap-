@@ -1,0 +1,4 @@
+#Thu Jun 26 12:54:47 BRT 2025
+base.0=/home/usuario/projects/pessoal/fulana/fulana/fulana_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

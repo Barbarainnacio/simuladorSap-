@@ -1,0 +1,1 @@
+ /home/usuario/projects/pessoal/fulana/fulana/fulana_app/.dart_tool/flutter_build/639f00ea508b2fdfabb949fba0769d61/native_assets.yaml: 

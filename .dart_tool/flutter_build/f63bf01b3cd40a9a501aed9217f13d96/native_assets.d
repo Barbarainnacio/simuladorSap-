@@ -1,0 +1,1 @@
+ /home/usuario/projects/pessoal/sap/simuladorSap-/.dart_tool/flutter_build/f63bf01b3cd40a9a501aed9217f13d96/native_assets.yaml: 
