@@ -95,8 +95,9 @@ O aplicativo é desenvolvido em Flutter com Dart, seguindo boas práticas de arq
 - ![image](https://github.com/user-attachments/assets/1ea75c79-3af4-4bd3-aa87-27bacf3e1b8d)
 ![image](https://github.com/user-attachments/assets/e5b0daab-1d45-403a-a4fb-6b2c8c9cf95a)
 ![image](https://github.com/user-attachments/assets/b7fe347f-a65c-4bc8-966c-83001fac9727)
-![image](https://github.com/user-attachments/assets/2bd81dbe-ccbe-47ef-b75b-671c2990b3ce)![app](https://github.com/user-attachments/assets/495ba707-1b53-4b2f-a047-a3991767a718)
-https://github.com/user-attachments/assets/8dcbe7b9-bff7-4c70-b177-399297e6065e
+![image](https://github.com/user-attachments/assets/2bd81dbe-ccbe-47ef-b75b-671c2990b3ce)
+![app](https://github.com/user-attachments/assets/495ba707-1b53-4b2f-a047-a3991767a718)
+
 
 link: https://anaa-5ef90.web.app/
 
