@@ -104,3 +104,148 @@ link: https://anaa-5ef90.web.app/
 ![image](https://github.com/user-attachments/assets/ab4dfae8-432f-4d59-91c5-9a0ac9f1416a)
 ![image](https://github.com/user-attachments/assets/dc9ee45f-7bac-4121-b9bc-3f3bc1052405)
 
+
+📄 Documento de Interface de Usuário
+🖥️ Interface: Login
+1. Leiaute sugerido
+
+📌 (Cole aqui a imagem do layout da tela de Login)
+
+[ INSERIR IMAGEM AQUI ]
+2. Relacionamentos com outras interfaces
+
+Agenda
+
+Painel do Administrador
+
+3. Campos
+Nº	Nome	Descrição	Valores válidos	Formato	Tipo	Restrições
+1	Email	Email do usuário	Emails válidos	Texto	String	Obrigatório
+2	Senha	Senha de acesso	Qualquer	Texto	String	Obrigatório
+4. Comandos
+Nº	Nome	Ação	Restrições
+1	Entrar	Valida login	Dados obrigatórios
+🖥️ Interface: Agenda
+1. Leiaute sugerido
+
+📌 (Cole aqui a imagem do layout da Agenda)
+
+[ INSERIR IMAGEM AQUI ]
+2. Relacionamentos com outras interfaces
+
+Cadastro de Paciente
+
+Detalhe do Paciente
+
+3. Campos
+Nº	Nome	Descrição	Valores válidos	Tipo	Restrições
+1	Data	Data da agenda	Datas válidas	Date	Obrigatório
+2	Horário	Horário da sessão	00:00–23:59	Time	Obrigatório
+3	Paciente	Nome do paciente	Texto	String	Deve existir
+4	Tipo	Tipo de sessão	Sessão / Entrevista	String	Obrigatório
+4. Comandos
+Nº	Nome	Ação
+1	Nova sessão	Abre agendamento
+2	Editar	Edita sessão
+3	Cancelar	Remove sessão
+🖥️ Interface: Pacientes
+1. Leiaute sugerido
+
+📌 (Cole aqui a imagem da tela de Pacientes)
+
+[ INSERIR IMAGEM AQUI ]
+2. Relacionamentos com outras interfaces
+
+Detalhe do Paciente
+
+3. Campos
+Nº	Nome	Descrição	Tipo	Restrições
+1	Nome	Nome do paciente	String	Obrigatório
+2	Telefone	Contato	String	Opcional
+3	Última sessão	Data da última sessão	Date	-
+4. Comandos
+Nº	Nome	Ação
+1	Buscar	Filtra pacientes
+2	Novo paciente	Abre cadastro
+3	Visualizar	Abre ficha
+🖥️ Interface: Detalhe do Paciente
+1. Leiaute sugerido
+
+📌 (Cole aqui a imagem da tela de Detalhe do Paciente)
+
+[ INSERIR IMAGEM AQUI ]
+2. Relacionamentos com outras interfaces
+
+Agenda
+
+Pacientes
+
+3. Campos
+Nº	Nome	Descrição	Tipo
+1	Nome	Nome completo	String
+2	CPF	Documento	String
+3	Telefone	Contato	String
+4	Histórico	Dados clínicos	Texto
+4. Comandos
+Nº	Nome	Ação
+1	Nova evolução	Adiciona registro
+2	Anexar	Adiciona documento
+🖥️ Interface: Eventos
+1. Leiaute sugerido
+
+📌 (Cole aqui a imagem da tela de Eventos)
+
+[ INSERIR IMAGEM AQUI ]
+2. Relacionamentos com outras interfaces
+
+Criar Evento
+
+3. Campos
+Nº	Nome	Descrição	Tipo
+1	Nome	Nome do evento	String
+2	Data	Data do evento	Date
+3	Vagas	Quantidade de vagas	Int
+4	Status	Disponível / Lotado	String
+4. Comandos
+Nº	Nome	Ação
+1	Criar evento	Abre formulário
+2	Visualizar	Ver detalhes
+🖥️ Interface: Criar Evento
+1. Leiaute sugerido
+
+📌 (Cole aqui a imagem da tela de Criar Evento)
+
+[ INSERIR IMAGEM AQUI ]
+2. Relacionamentos com outras interfaces
+
+Eventos
+
+3. Campos
+Nº	Nome	Descrição	Tipo
+1	Nome	Nome do evento	String
+2	Data	Data do evento	Date
+3	Vagas	Quantidade de vagas	Int
+4	Descrição	Detalhes do evento	Texto
+4. Comandos
+Nº	Nome	Ação
+1	Criar	Salva evento
+🖥️ Interface: Perfil
+1. Leiaute sugerido
+
+📌 (Cole aqui a imagem da tela de Perfil)
+
+[ INSERIR IMAGEM AQUI ]
+2. Relacionamentos com outras interfaces
+
+Login
+
+3. Campos
+Nº	Nome	Descrição	Tipo
+1	Nome	Nome do usuário	String
+2	Email	Email do usuário	String
+3	Tipo	Admin / Profissional	String
+4. Comandos
+Nº	Nome	Ação
+1	Editar	Atualiza dados
+2	Sair	Log
+
